@@ -32,6 +32,9 @@ build/
 !**/src/test/**/build/
 frontend/node_modules
 
+src/main/resources/application-*.properties
+!src/main/resources/application-mysql.properties.example
+
 ### VS Code ###
 .vscode/
 
